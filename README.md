@@ -40,7 +40,7 @@ The tasks in this projects are listed below:
 * (Optionally) Lint application (requires hadolint)
 * Download the latest version of Docker for your environment 
 * Install hadolint
-* Install Minicube
+* Install Kubectl, Minikube
 
 ## Section B - Run Docker Container
 * Dockerfile: A Dockerfile contains recommended steps to build a docker image
