@@ -56,8 +56,8 @@ The tasks in this projects are listed below:
 * Run in Kubernetes:  `./run_kubernetes.sh`
 
 ### Upload to Docker Hub
-In the ./upload_docker.sh file, edit the dockerpath (line 8) and change the docker username to a personalized one
-To upload to docker hub, run ./upload_docker.sh
+* In the ./upload_docker.sh file, edit the dockerpath (line 8) and change the docker username to a personalized one
+* To upload to docker hub, run ./upload_docker.sh
 
 ### Kubernetes Steps
 * Setup and Configure Docker locally
