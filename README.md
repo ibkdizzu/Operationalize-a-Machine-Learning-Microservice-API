@@ -64,3 +64,10 @@ The tasks in this projects are listed below:
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Other Important Files
+* Makefile: Describes all the instructions to be followed to automate enviroment setup and lint tests
+  It includes steps for environment setup, requiremet installation, lint test
+* Requirements: Contains a list of required python packages to be installed when called from Makefile
+* app.py: The application to be containerized
+* config.yml : workflow of circleci jobs
